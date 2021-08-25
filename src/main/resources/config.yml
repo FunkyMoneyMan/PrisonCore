@@ -1,0 +1,225 @@
+Enchants:
+  Fortune:
+    slot: 29
+    startinglevel: 0
+    maxlevel: 100
+    basecost: 100
+    costincrease: 100
+    displayname: "&a&lFortune"
+    item: "diamond"
+    lore:
+      - " "
+      - "&7Increase the amount of blocks you get when mining."
+      - " "
+      - "&fPrice: &e{cost} Tokens"
+      - "&fLevel: &c{level}&7/&a100"
+      - " "
+      - "&aLeft-Click to enchant"
+      - "&9Right-Click to multi-enchant"
+  Efficiency:
+    slot: 28
+    startinglevel: 10
+    maxlevel: 100
+    basecost: 100
+    costincrease: 100
+    displayname: "&a&lEfficiency"
+    item: "sugar"
+    lore:
+      - " "
+      - "&7Increase your pickaxe efficiency."
+      - " "
+      - "&fPrice: &e{cost} Tokens"
+      - "&fLevel: &c{level}&7/&a100"
+      - " "
+      - "&aLeft-Click to enchant"
+      - "&9Right-Click to multi-enchant"
+  Explosive:
+    slot: 30
+    startinglevel: 0
+    maxlevel: 100
+    basecost: 100
+    costincrease: 100
+    statincrease: 5
+    displayname: "&a&lExplosive"
+    item: "tnt"
+    lore:
+      - " "
+      - "&7Explodes small part of the mine."
+      - "&7Size increases with level."
+      - " "
+      - "&fPrice: &e{cost} Tokens"
+      - "&fLevel: &c{level}&7/&a100"
+      - " "
+      - "&aLeft-Click to enchant"
+      - "&9Right-Click to multi-enchant"
+  Tokenfinder:
+    slot: 32
+    startinglevel: 0
+    maxlevel: 100
+    basecost: 100
+    costincrease: 100
+    displayname: "&a&lToken Finder"
+    item: "sunflower"
+    lore:
+      - " "
+      - "&7Chance to get extra tokens as you mine."
+      - " "
+      - "&fPrice: &e{cost} Tokens"
+      - "&fLevel: &c{level}&7/&a100"
+      - " "
+      - "&aLeft-Click to enchant"
+      - "&9Right-Click to multi-enchant"
+  Keyfinder:
+    slot: 33
+    startinglevel: 0
+    maxlevel: 100
+    basecost: 100
+    costincrease: 100
+    displayname: "&a&lKey Finder"
+    item: "tripwire_hook"
+    lore:
+      - " "
+      - "&7Chance to find keys while mining."
+      - " "
+      - "&fPrice: &e{cost} Tokens"
+      - "&fLevel: &c{level}&7/&a100"
+      - " "
+      - "&aLeft-Click to enchant"
+      - "&9Right-Click to multi-enchant"
+  Lucky:
+    slot: 34
+    startinglevel: 0
+    maxlevel: 100
+    basecost: 100
+    costincrease: 100
+    displayname: "&a&lLucky"
+    item: "emerald"
+    lore:
+      - " "
+      - "&7Increases the proc rate of other enchants."
+      - " "
+      - "&fPrice: &e{cost} Tokens"
+      - "&fLevel: &c{level}&7/&a100"
+      - " "
+      - "&aLeft-Click to enchant"
+      - "&9Right-Click to multi-enchant"
+  Beaconfinder:
+    slot: 37
+    startinglevel: 0
+    maxlevel: 100
+    basecost: 100
+    costincrease: 100
+    displayname: "&a&lBeacon Finder"
+    item: "beacon"
+    lore:
+      - " "
+      - "&7Chance of finding beacon while mining."
+      - " "
+      - "&fPrice: &e{cost} Tokens"
+      - "&fLevel: &c{level}&7/&a100"
+      - " "
+      - "&aLeft-Click to enchant"
+      - "&9Right-Click to multi-enchant"
+  Sparechange:
+    slot: 38
+    startinglevel: 0
+    maxlevel: 100
+    basecost: 100
+    costincrease: 100
+    displayname: "&a&lSpare Change"
+    item: "gold_nugget"
+    lore:
+      - " "
+      - "&7Chance to get more money while selling."
+      - " "
+      - "&fPrice: &e{cost} Tokens"
+      - "&fLevel: &c{level}&7/&a100"
+      - " "
+      - "&aLeft-Click to enchant"
+      - "&9Right-Click to multi-enchant"
+  Xpfinder:
+    slot: 39
+    startinglevel: 0
+    maxlevel: 100
+    basecost: 100
+    costincrease: 100
+    displayname: "&a&lXP Finder"
+    item: "experience_bottle"
+    lore:
+      - " "
+      - "&7Increases the amount of pickaxe XP from mining."
+      - " "
+      - "&fPrice: &e{cost} Tokens"
+      - "&fLevel: &c{level}&7/&a100"
+      - " "
+      - "&aLeft-Click to enchant"
+      - "&9Right-Click to multi-enchant"
+  Treasurehunter:
+    slot: 41
+    startinglevel: 0
+    maxlevel: 100
+    basecost: 100
+    costincrease: 100
+    displayname: "&a&lTreasure Hunter"
+    item: "chest"
+    lore:
+      - " "
+      - "&7Chance of finding pickaxe and backpack shards."
+      - " "
+      - "&fPrice: &e{cost} Tokens"
+      - "&fLevel: &c{level}&7/&a100"
+      - " "
+      - "&aLeft-Click to enchant"
+      - "&9Right-Click to multi-enchant"
+  Sellmultiplier:
+    slot: 42
+    startinglevel: 0
+    maxlevel: 100
+    basecost: 100
+    costincrease: 100
+    displayname: "&a&lSell Multiplier"
+    item: "paper"
+    lore:
+      - " "
+      - "&7Increases the base rate at which blocks are sold."
+      - " "
+      - "&fPrice: &e{cost} Tokens"
+      - "&fLevel: &c{level}&7/&a100"
+      - " "
+      - "&aLeft-Click to enchant"
+      - "&9Right-Click to multi-enchant"
+  Alchemy:
+    slot: 43
+    startinglevel: 0
+    maxlevel: 100
+    basecost: 100
+    costincrease: 100
+    displayname: "&a&lAlchemy"
+    item: "brewing_stand"
+    lore:
+      - " "
+      - "&7Chance to sell all blocks in backpack."
+      - " "
+      - "&fPrice: &e{cost} Tokens"
+      - "&fLevel: &c{level}&7/&a100"
+      - " "
+      - "&aLeft-Click to enchant"
+      - "&9Right-Click to multi-enchant"
+  Jackhammer:
+    slot: 31
+    startinglevel: 0
+    maxlevel: 100
+    basecost: 100
+    costincrease: 100
+    statincrease: 5
+    displayname: "&a&lJackHammer"
+    item: "hopper"
+    lore:
+      - " "
+      - "&7Clears an entire layer of the mine."
+      - " "
+      - "&fPrice: &e{cost} Tokens"
+      - "&fLevel: &c{level}&7/&a100"
+      - " "
+      - "&aLeft-Click to enchant"
+      - "&9Right-Click to multi-enchant"

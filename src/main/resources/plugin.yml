@@ -1,0 +1,22 @@
+name: PrisonCore
+version: 1.0
+author: FunkyMoneyMan
+main: main.Prison
+api-version: 1.13
+depend: [NBTAPI, Vault, WorldGuard]
+softdepend: [PlaceholderAPI]
+commands:
+  token:
+    description: Gives the current token balance
+    usage: /token(s)
+    aliases:
+      - token
+      - tokens
+    permission: PrisonCore.admintokens
+  tokenbal:
+    description: Gives the current token balance
+    usage: /tokenbal
+    aliases:
+      - tokenbalance
+      - tokensbalance
+      - tokensbal
